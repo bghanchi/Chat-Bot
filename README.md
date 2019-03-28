@@ -1,2 +1,2 @@
-# Chat-Bot
-A simple chat bot using socket.io
+# ChatBot
+Simple ChatBot using socket.io 
